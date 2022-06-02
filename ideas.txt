@@ -1,0 +1,2 @@
+arquivo(checksum, files) => update => suggest =>
+        ^\-   Update Auto    <-/
